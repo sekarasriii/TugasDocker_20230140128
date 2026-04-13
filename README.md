@@ -6,9 +6,10 @@ teman)
 
 2. Halaman container docker desktop (setelah membuat container dari image dari
 teman)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ef23d47f-9f97-4672-82aa-9e36df6ad709" />
 <img width="1920" height="1200" alt="Screenshot 2026-04-13 150038" src="https://github.com/user-attachments/assets/f66935fe-8b7c-4ac4-b960-b68612eabc4c" />
 
-3. Halaman web masing masing pastikan di run dari docker 4 screenshot :
+4. Halaman web masing masing pastikan di run dari docker 4 screenshot :
 • Halaman login
 <img width="1920" height="1200" alt="Screenshot 2026-04-13 150203" src="https://github.com/user-attachments/assets/d61d47bd-e5d3-45a5-b66f-36c212aa7f83" />
 
