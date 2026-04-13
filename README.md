@@ -1,4 +1,4 @@
-<img width="1920" height="1200" alt="Screenshot 2026-04-13 150412" src="https://github.com/user-attachments/assets/405f8c66-e84e-4f81-a7cc-78685c633343" />Tugas :
+Tugas :
 Screenshot 10 hal :
 1. Halaman image docker desktop (setelah push image project dan pull image dari
 teman)
@@ -10,7 +10,7 @@ teman)
 
 3. Halaman web masing masing pastikan di run dari docker 4 screenshot :
 • Halaman login
-![Uploading Screenshot 2026-04-13 150203.png…]()
+<img width="1920" height="1200" alt="Screenshot 2026-04-13 150203" src="https://github.com/user-attachments/assets/d61d47bd-e5d3-45a5-b66f-36c212aa7f83" />
 
 • Halaman home
 <img width="1920" height="1200" alt="Screenshot 2026-04-13 150229" src="https://github.com/user-attachments/assets/f29f3cf3-f690-436c-bd2b-af5074f270b4" />
